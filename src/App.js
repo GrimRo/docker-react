@@ -16,8 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Change test
+          learn react
         </a>
+        <p>ADAOS</p>
       </header>
     </div>
   );
