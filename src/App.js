@@ -18,6 +18,7 @@ function App() {
         >
           learn react
         </a>
+        <p>ADAOS</p>
       </header>
     </div>
   );
