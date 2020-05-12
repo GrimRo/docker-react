@@ -16,9 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          learn react
+          Grim
         </a>
-        <p>ADAOS</p>
       </header>
     </div>
   );
