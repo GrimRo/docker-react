@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Grim
+          Grim > George
         </a>
       </header>
     </div>
